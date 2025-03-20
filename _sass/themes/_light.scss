@@ -33,15 +33,15 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(113, 113, 113);
+  --site-title-color: #000000;
   --site-subtitle-color: #717171;
-  --sidebar-bg: #f6f8fa;
+  --sidebar-bg: url('/assets/img/프로필 바다.jpg');
   --sidebar-border-color: #efefef;
   --sidebar-muted-color: #545454;
   --sidebar-active-color: #1d1d1d;
   --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
-  --sidebar-btn-bg: white;
-  --sidebar-btn-color: #8e8e8e;
+  --sidebar-btn-bg: rgb(255, 255, 255, 0.6);
+  --sidebar-btn-color: white;
   --avatar-border-color: white;
 
   /* Topbar */

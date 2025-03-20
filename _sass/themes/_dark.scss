@@ -32,13 +32,13 @@
   );
 
   /* Sidebar */
-  --site-title-color: #717070;
+  --site-title-color: #e7e1e1;
   --site-subtitle-color: #868686;
-  --sidebar-bg: #1e1e1e;
-  --sidebar-border-color: #292929;
-  --sidebar-muted-color: #868686;
+  --sidebar-bg: url('/assets/img/프로필 야경2.jpg');
+  --sidebar-border-color: #7b7a7a;
+  --sidebar-muted-color: #dbdada;
   --sidebar-active-color: rgb(255, 255, 255, 0.95);
-  --sidebar-hover-bg: #262626;
+  --sidebar-hover-bg: rgba(100, 100, 100, 0.95);
   --sidebar-btn-bg: #232328;
   --sidebar-btn-color: #787878;
   --avatar-border-color: rgb(206, 206, 206, 0.9);
