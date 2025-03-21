@@ -1857,7 +1857,10 @@ summary {
 }
 .pe-none {
   pointer-events: none !important;
-} /*.rounded-circle{border-radius:50%!important}*/
+}
+.rounded-circle {
+  border-radius: 50% !important;
+}
 .invisible {
   visibility: hidden !important;
 }
