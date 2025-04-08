@@ -15,6 +15,8 @@ jekyll-chirpy-theme 레포지토리를 fork한 후 scss파일을 수정하여 �
 
 ## 관련 포스트
 
+[jekyll gitblog chirpy 테마 사이드바 이미지 배경 넣기](https://sunghopark12.github.io/posts/jekyll-gitblog-sidebar-customizing/)
+
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
 
